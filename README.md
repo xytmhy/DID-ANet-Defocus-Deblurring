@@ -10,6 +10,7 @@ DED-Net Architecture
 
 DED Real Scene Dataset
 ----
+Available here: https://drive.google.com/open?id=17FiFdbM6VNDBHDE4TBw7PKF7ep_wPgX6
 
 Training
 ----
