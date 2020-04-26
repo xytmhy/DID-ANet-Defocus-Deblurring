@@ -1,0 +1,6 @@
+torch>=0.4.1
+torchvision
+numpy
+tensorboardX>=1.4
+imageio
+argparse
